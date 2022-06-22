@@ -94,10 +94,17 @@ Aliases: decreases	- expect(fn).to.decrease(obj, 'val')
 
 
 # Some Cool Resources for Learning - 
--[Cypress Tutorial](https://www.tutorialspoint.com/cypress/)
+- [Cypress Tutorial](https://www.tutorialspoint.com/cypress/)
 
--[Report](https://docs.cypress.io/guides/tooling/reporters)
+- [Report](https://docs.cypress.io/guides/tooling/reporters)
 
--[Compare](https://www.knapsackpro.com/testing_frameworks/difference_between/mochajs/vs/cypress-io)
+- [Compare](https://www.knapsackpro.com/testing_frameworks/difference_between/mochajs/vs/cypress-io)
 
--[Cypress Automation](https://www.lambdatest.com/blog/cypress-test-automation-framework/)
+- [Cypress Automation](https://www.lambdatest.com/blog/cypress-test-automation-framework/)
+
+- [Cypress-Intro](https://www.cypress.io/how-it-works/)
+
+- [Cypress-Intro-2](https://www.browserstack.com/guide/cypress-framework-tutorial)
+
+- [Cypress-with-POM](https://lambdageeks.com/page-object-model-cypress-example/)
+
