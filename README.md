@@ -11,3 +11,4 @@ Some Frequently used Git Commands -
 
 For more Commands please refer - https://git-scm.com/docs/git
 
+A good resource to commit changes to your GitHub Repo - https://www.sachinsf.com/how-to-push-the-code-from-vs-code-to-github/#:~:text=To%20push%20the%20code%20to%20GitHub%20from%20Visual,you%20have%20to%20push%20your%20folder%20to%20Github.
