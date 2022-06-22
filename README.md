@@ -78,6 +78,7 @@ respondTo(method)
 Aliases: satisfies	- expect(1).to.satisfy((num) => { return num > 0 })
 34) closeTo(expected, delta)
 Aliases: approximately	- expect(1.5).to.be.closeTo(1, 0.5)
+
 35) members(set)	- expect([1, 2, 3]).to.include.members([3, 2])
 36) oneOf(values)	- expect(2).to.be.oneOf([1,2,3])
 37) change(function)
@@ -86,3 +87,10 @@ increase(function)
 38) Aliases: increases	- expect(fn).to.increase(obj, 'val')
 39) decrease(function)
 Aliases: decreases	- expect(fn).to.decrease(obj, 'val')
+
+
+Some Cool Resources for Learning - 
+-[Cypress Tutorial](https://www.tutorialspoint.com/cypress/)
+-[Report](https://docs.cypress.io/guides/tooling/reporters)
+-[Compare](https://www.knapsackpro.com/testing_frameworks/difference_between/mochajs/vs/cypress-io)
+-[Cypress Automation](https://www.lambdatest.com/blog/cypress-test-automation-framework/)
