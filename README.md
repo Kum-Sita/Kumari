@@ -34,3 +34,26 @@ Aliases: an	- expect('test').to.be.a('string')
 Aliases: contain, includes, contains - expect([1,2,3]).to.include(2)
 9) ok - expect(undefined).to.not.be.ok
 10) true - expect(true).to.be.true
+11) false - expect(false).to.be.false
+12) null - expect(null).to.be.null
+13) undefined - expect(undefined).to.be.undefined
+14) exist - expect(myVar).to.exist
+15) empty	- expect([]).to.be.empty
+16) arguments
+Aliases: Arguments - expect(arguments).to.be.arguments
+17) equal(value)
+Aliases: equals, -  eq	expect(42).to.equal(42)
+18) deep.equal(value) - expect({ name: 'Jane' }).to.deep.equal({ name: 'Jane' })
+19) eql(value)
+Aliases: eqls - expect({ name: 'Jane' }).to.eql({ name: 'Jane' })
+20) greaterThan(value)
+Aliases: gt, above	- expect(10).to.be.greaterThan(5)
+21) least(value)
+Aliases: gte	- expect(10).to.be.at.least(10)
+22) lessThan(value)
+Aliases: lt, below	- expect(5).to.be.lessThan(10)
+23) most(value)
+Aliases: lte - expect('test').to.have.length.of.at.most(4)
+24) within(start, finish)	- expect(7).to.be.within(5,10)
+25) instanceOf(constructor)
+Aliases: instanceof	- expect([1, 2, 3]).to.be.instanceOf(Array)
