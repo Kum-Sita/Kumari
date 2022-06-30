@@ -115,7 +115,7 @@ Aliases: decreases	- expect(fn).to.decrease(obj, 'val')
 
 
 
-# Few General Resources for Learning Selenium Java TestNG Jenkins- 
+# Few General Resources for Learn -> Selenium-Java TestNG Automation Framework, Jenkins - 
  
 - [Selenium-Java](https://www.youtube.com/watch?v=WzuJANOPLyQ)
 
