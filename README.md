@@ -110,3 +110,4 @@ Aliases: decreases	- expect(fn).to.decrease(obj, 'val')
 
 - [3-hours-quickly-learn-cypress](https://www.youtube.com/watch?v=jX3v3N6oN5M&t=267s)
 
+- [Cypress-crash-course](https://www.youtube.com/watch?v=OIAzwr-_jhY)
