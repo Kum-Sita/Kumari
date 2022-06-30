@@ -126,3 +126,5 @@ Aliases: decreases	- expect(fn).to.decrease(obj, 'val')
 - [TestNG-Framework](https://www.youtube.com/watch?v=_sWcXaic-bw)
 
 - [Jenkins](https://www.youtube.com/watch?v=p7-U1_E_j3w)
+
+- [Jenkins-Beginners](https://www.youtube.com/watch?v=89yWXXIOisk)
