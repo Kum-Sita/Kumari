@@ -108,3 +108,5 @@ Aliases: decreases	- expect(fn).to.decrease(obj, 'val')
 
 - [Cypress-with-POM](https://lambdageeks.com/page-object-model-cypress-example/)
 
+- [3-hours-quickly-learn-cypress](https://www.youtube.com/watch?v=jX3v3N6oN5M&t=267s)
+
