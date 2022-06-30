@@ -115,6 +115,8 @@ Aliases: decreases	- expect(fn).to.decrease(obj, 'val')
 
 
 
-# Few Resources for Learning Selenium Jave - 
+# Few Resources for Learning Selenium Java - 
  
 - [Selenium-Java](https://www.youtube.com/watch?v=WzuJANOPLyQ)
+
+- [Selenium-Tutorial-For-Beginners]((https://www.youtube.com/watch?v=5FUdrBq-WFo)
