@@ -93,7 +93,8 @@ Aliases: decreases	- expect(fn).to.decrease(obj, 'val')
 
 
 
-# Some Cool Resources for Learning - 
+# Some Cool Resources for Learning Cypress - 
+
 - [Cypress Tutorial](https://www.tutorialspoint.com/cypress/)
 
 - [Report](https://docs.cypress.io/guides/tooling/reporters)
@@ -111,3 +112,9 @@ Aliases: decreases	- expect(fn).to.decrease(obj, 'val')
 - [3-hours-quickly-learn-cypress](https://www.youtube.com/watch?v=jX3v3N6oN5M&t=267s)
 
 - [Cypress-crash-course](https://www.youtube.com/watch?v=OIAzwr-_jhY)
+
+
+
+# Few Resources for Learning Selenium Jave - 
+ 
+- [Selenium-Java](https://www.youtube.com/watch?v=WzuJANOPLyQ)
