@@ -92,6 +92,9 @@ Aliases: decreases	- expect(fn).to.decrease(obj, 'val')
 
 # Understanding DOM & Terminology - 
 - HTML DOM consists of HTML Tags, HTML Attrubutes and Attributes Values
+- "Class" and "ID" are also HTML attributes names
+- "Class" attributes can have several values and each value is seprated by space
+- HTML tags usually come in pairs of Opening and Closing tag. Closing tag has the same name and forward slash
 
 
 
