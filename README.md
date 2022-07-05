@@ -95,6 +95,10 @@ Aliases: decreases	- expect(fn).to.decrease(obj, 'val')
 - "Class" and "ID" are also HTML attributes names
 - "Class" attributes can have several values and each value is seprated by space
 - HTML tags usually come in pairs of Opening and Closing tag. Closing tag has the same name and forward slash
+- Value in between angle brackets (>here<) is a plain text
+- Elements above the "key" web element are Parents Elements
+- Elements inside of the "key" web element are Child Elements 
+- 
 
 
 
