@@ -90,6 +90,9 @@ Aliases: decreases	- expect(fn).to.decrease(obj, 'val')
 
 
 
+# Understanding DOM & Terminology - 
+- HTML DOM consists of HTML Tags, HTML Attrubutes and Attributes Values
+
 
 
 
