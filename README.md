@@ -98,7 +98,7 @@ Aliases: decreases	- expect(fn).to.decrease(obj, 'val')
 - Value in between angle brackets (>here<) is a plain text
 - Elements above the "key" web element are Parents Elements
 - Elements inside of the "key" web element are Child Elements 
-- 
+- Elements placed at the same level side by side are sibling Elements
 
 
 
