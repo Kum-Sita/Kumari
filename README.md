@@ -101,6 +101,9 @@ Aliases: decreases	- expect(fn).to.decrease(obj, 'val')
 - Elements placed at the same level side by side are sibling Elements
 
 
+# My Jenkins Notes
+- Jenkins is a powerful application that allows continuous integration and continuous delivery of projects, regardless of the platform you are working on. It is a free source that can handle any kind of build or continuous integration.
+
 
 
 # Some Cool Resources for Learning Cypress - 
