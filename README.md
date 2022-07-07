@@ -114,11 +114,11 @@ Jenkins Workflow -
 - Run the following command on the command prompt - D:\>Java –jar Jenkins.war
 - After the command is run, various tasks will run, one of which is the extraction of the war file which is done by an embedded webserver called winstone.
 
- D:\>Java –jar Jenkins.war
- Running from: D:\jenkins.war
- Webroot: $user.home/ .jenkins
- Sep 29, 2015 4:10:46 PM winstone.Logger logInternal
- INFO: Beginning extraction from war file"
+ D:\>Java –jar Jenkins.war;
+ Running from: D:\jenkins.war;
+ Webroot: $user.home/ .jenkins;
+ Sep 29, 2015 4:10:46 PM winstone.Logger logInternal;
+ INFO: Beginning extraction from war file;
 
 - Once the processing is complete without major errors, the following line will come in the output of the command prompt.
 
