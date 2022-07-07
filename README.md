@@ -104,7 +104,7 @@ Aliases: decreases	- expect(fn).to.decrease(obj, 'val')
 # My Jenkins Notes
 - Jenkins is a powerful application that allows continuous integration and continuous delivery of projects, regardless of the platform you are working on. It is a free source that can handle any kind of build or continuous integration.
 
-<image src="jenkins-workflow" alt= "Jenkin">
+<image src="jenkins-workflow.png" alt= "Jenkin">
 
 # Some Cool Resources for Learning Cypress - 
 
