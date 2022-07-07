@@ -154,7 +154,8 @@ INFO: Jenkins is fully up and running
 
 
 
-# Few Resources to Learn -> Selenium-Java TestNG Automation Framework & Jenkins - 
+# Few Resources to Learn -> 
+ Selenium-Java TestNG Automation Framework & Jenkins - 
  
 - [Selenium-Java](https://www.youtube.com/watch?v=WzuJANOPLyQ)
 
