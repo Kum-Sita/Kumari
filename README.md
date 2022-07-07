@@ -114,7 +114,7 @@ Jenkins Workflow -
 - Run the following command on the command prompt - D:\>Java –jar Jenkins.war
 - After the command is run, various tasks will run, one of which is the extraction of the war file which is done by an embedded webserver called winstone.
 
- [D:\>Java –jar Jenkins.war]
+ D:\>Java –jar Jenkins.war
  
  Running from: D:\jenkins.war
  
