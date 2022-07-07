@@ -107,8 +107,12 @@ Aliases: decreases	- expect(fn).to.decrease(obj, 'val')
 Jenkins Workflow - 
 <image src="jenkins-workflow.png" alt= "Jenkin"> 
 
+
+
 => Jenkins - Installation - 
  - The latest release and the Long-Term support release will be available for download from the home page - [Jenkins](https://www.jenkins.io/)
+ 
+ 
 
 => Starting Jenkins - 
 - Run the following command on the command prompt - D:\>Java –jar Jenkins.war
