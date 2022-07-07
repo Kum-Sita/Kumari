@@ -154,6 +154,7 @@ INFO: Jenkins is fully up and running
 
 
 
+
 # Few Resources to Learn -> 
  Selenium-Java TestNG Automation Framework & Jenkins - 
  
@@ -168,3 +169,5 @@ INFO: Jenkins is fully up and running
 - [Jenkins](https://www.youtube.com/watch?v=p7-U1_E_j3w)
 
 - [Jenkins-Beginners](https://www.youtube.com/watch?v=89yWXXIOisk)
+
+- [Jenkins-learn](https://www.tutorialspoint.com/jenkins/index.htm)
