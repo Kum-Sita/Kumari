@@ -130,8 +130,7 @@ Jenkins Workflow -
  
 
 - Once the processing is complete without major errors, the following line will come in the output of the command prompt.
-
-INFO: Jenkins is fully up and running
+ Jenkins is fully up and running
 
 
 
