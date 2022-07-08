@@ -89,6 +89,13 @@ increase(function)
 Aliases: decreases	- expect(fn).to.decrease(obj, 'val')
 
 
+# Cypress 9 VS Cypress 10 - 
+- Modified Folder structure - 
+Integration folder where we want to keep our test is replaced with e2e folder. Second file, index.js just renamed into e2e.js file where fucntionality stays same its just renaming. Also, plugins folder is removed from version 10. 
+<image src="Integrations-e2e.jpg" alt= "Cypress9to10"> 
+
+- Examples Folder - 
+
 
 # Understanding DOM & Terminology - 
 - HTML DOM consists of HTML Tags, HTML Attrubutes and Attributes Values
