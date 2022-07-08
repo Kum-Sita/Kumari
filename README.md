@@ -31,9 +31,15 @@ Integration folder where we want to keep our test is replaced with e2e folder. S
 
 - Removed Plugins - Cypress removed plugins folder that had index.js from cypress 10 and moved under cypress.config.js, inside e2e we need to set up node events method and inside of the body of this method we put all the same settings that we put before into plugins index.js 
 
-- Few UI Changes - First Tests, Run, Settings align horizantally now in cypress 10 its aligned vertically. 
+- Few UI Changes - First Tests, Run, Settings align horizantally now in cypress 10 its aligned vertically. For switching Browsers dropdown has been removed instead its now button. The functional difference which cypress changed is that now we will not be able to run all spec test files from the runner.  
 <image src="redesign.jpg" alt= "Cypress9to10-4"> 
 
+
+- Changed the view of Test Run Eexcution.
+ <image src="UI.jpg" alt= "Cypress9to10-5"> 
+
+
+ 
 
 # BDD Assertions in Cypress
 These chainers are available for BDD assertions (expect/should). Aliases listed can be used interchangeably with their original chainer. The entire list of available BDD Chai assertions here.
