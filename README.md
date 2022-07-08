@@ -92,9 +92,15 @@ Aliases: decreases	- expect(fn).to.decrease(obj, 'val')
 # Cypress 9 VS Cypress 10 - 
 - Modified Folder structure - 
 Integration folder where we want to keep our test is replaced with e2e folder. Second file, index.js just renamed into e2e.js file where fucntionality stays same its just renaming. Also, plugins folder is removed from version 10. 
-<image src="Integrations-e2e.jpg" alt= "Cypress9to10"> 
+<image src="Integrations-e2e.jpg" alt= "Cypress9to10-1"> 
 
-- Examples Folder - 
+- Examples Folder - In version 10 example folder is splited to 2 different folders, 1st- getting started with simple examples and 2nd- more advanced examples 
+<image src="examples-advanced.jpg" alt= "Cypress9to10-2"> 
+
+- Configuration file modified (Biggest change) - Cypress.json (basically json object with different parameters) renamed it to the cypress.config.js (pretty much same except the older configrations are inside the define config method). Another difference before we put the baseurl as a parameter in the json object, right now since the baseurl is the part of end-to-end (e2e) test it is located under end-to-end (e2e) object. Viewporthieght and Viewportwidth is kind of global settings. 
+<image src="Json-js.jpg" alt= "Cypress9to10-3"> 
+
+
 
 
 # Understanding DOM & Terminology - 
