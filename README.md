@@ -14,9 +14,28 @@ For more Commands please refer - https://git-scm.com/docs/git
 A good resource to commit changes to your GitHub Repo - https://www.sachinsf.com/how-to-push-the-code-from-vs-code-to-github/#:~:text=To%20push%20the%20code%20to%20GitHub%20from%20Visual,you%20have%20to%20push%20your%20folder%20to%20Github.
 
 
-# My Cypress Notes 
 
-BDD Assertions
+
+# My Cypress Notes -
+
+# Cypress 9 VS Cypress 10 - 
+- Modified Folder structure - 
+Integration folder where we want to keep our test is replaced with e2e folder. Second file, index.js just renamed into e2e.js file where fucntionality stays same its just renaming. Also, plugins folder is removed from version 10. 
+<image src="Integrations-e2e.jpg" alt= "Cypress9to10-1"> 
+
+- Examples Folder - In version 10 example folder is splited to 2 different folders, 1st- getting started with simple examples and 2nd- more advanced examples 
+<image src="examples-advanced.jpg" alt= "Cypress9to10-2"> 
+
+- Configuration file modified (Biggest change) - Cypress.json (basically json object with different parameters) renamed it to the cypress.config.js (pretty much same except the older configrations are inside the define config method). Another difference before we put the baseurl as a parameter in the json object, right now since the baseurl is the part of end-to-end (e2e) test it is located under end-to-end (e2e) object. Viewporthieght and Viewportwidth is kind of global settings. 
+<image src="Json-js.jpg" alt= "Cypress9to10-3"> 
+
+- Removed Plugins - Cypress removed plugins folder that had index.js from cypress 10 and moved under cypress.config.js, inside e2e we need to set up node events method and inside of the body of this method we put all the same settings that we put before into plugins index.js 
+
+- Few UI Changes - First Tests, Run, Settings align horizantally now in cypress 10 its aligned vertically. 
+<image src="redesign.jpg" alt= "Cypress9to10-4"> 
+
+
+# BDD Assertions in Cypress
 These chainers are available for BDD assertions (expect/should). Aliases listed can be used interchangeably with their original chainer. The entire list of available BDD Chai assertions here.
 
 Chainer-	Example
@@ -87,21 +106,6 @@ increase(function)
 38) Aliases: increases	- expect(fn).to.increase(obj, 'val')
 39) decrease(function)
 Aliases: decreases	- expect(fn).to.decrease(obj, 'val')
-
-
-# Cypress 9 VS Cypress 10 - 
-- Modified Folder structure - 
-Integration folder where we want to keep our test is replaced with e2e folder. Second file, index.js just renamed into e2e.js file where fucntionality stays same its just renaming. Also, plugins folder is removed from version 10. 
-<image src="Integrations-e2e.jpg" alt= "Cypress9to10-1"> 
-
-- Examples Folder - In version 10 example folder is splited to 2 different folders, 1st- getting started with simple examples and 2nd- more advanced examples 
-<image src="examples-advanced.jpg" alt= "Cypress9to10-2"> 
-
-- Configuration file modified (Biggest change) - Cypress.json (basically json object with different parameters) renamed it to the cypress.config.js (pretty much same except the older configrations are inside the define config method). Another difference before we put the baseurl as a parameter in the json object, right now since the baseurl is the part of end-to-end (e2e) test it is located under end-to-end (e2e) object. Viewporthieght and Viewportwidth is kind of global settings. 
-<image src="Json-js.jpg" alt= "Cypress9to10-3"> 
-
-
-
 
 # Understanding DOM & Terminology - 
 - HTML DOM consists of HTML Tags, HTML Attrubutes and Attributes Values
